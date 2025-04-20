@@ -55,7 +55,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
 - **For Hosts**: Helps understand pricing trends to set competitive rates.
 - **For Analysts**: Offers geographic insights into how shared room prices vary across neighborhoods.
 
-<img width="1522" alt="Screenshot 2025-03-16 at 5 16 00 PM" src="https://github.com/user-attachments/assets/ccef4380-03ce-4b5d-8431-c77cf91374c5" />
+![](Slide_1.png)
 
 ### **Chart Explanation: Total Bookings By Month and Neighborhood (Shared Rooms)**
 
@@ -98,7 +98,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
 #### **7. Additional Information**
 - The chart includes a **line graph overlay**, illustrating the trend of the **Count of Names**, which mirrors the fluctuations in total bookings.
 
-<img width="1705" alt="Screenshot 2025-03-16 at 5 32 49 PM" src="https://github.com/user-attachments/assets/3bfe97c2-a510-4d6e-bec8-a13e1eeeec2a" />
+![](Slide_2.png)
 
 ### **Chart Explanation: Total Neighbourhoods by Neighbourhood Group**
 
@@ -135,7 +135,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
 - The chart shows that **Manhattan** and **Brooklyn** collectively account for the majority of neighborhoods.
 - **Queens** has a moderate share, while **Bronx** and **Staten Island** contribute a smaller percentage to the total.
 
-<img width="1699" alt="Screenshot 2025-03-16 at 5 35 16 PM" src="https://github.com/user-attachments/assets/e81c9dfb-9375-46a4-8586-7d45a45325b0" />
+![](Slide_3.png)
 
 ### **Chart Explanation: Top 10 Hosts By Total Reviews**
 
@@ -221,7 +221,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
 - **Sonder (NYC)** has the **highest average price per night** ($265) while maintaining a substantial total of 1,129 reviews.
 - The chart provides a mix of hosts from various Neighbourhood Groups, showcasing trends in host performance and pricing across NYC.
 
-<img width="1690" alt="Screenshot 2025-03-16 at 5 36 43 PM" src="https://github.com/user-attachments/assets/82af5454-b89a-47c6-aaef-3d66d3c09e32" />
+![](Slide_4.png)
 
 ### **Chart Explanation: Total Bookings by Neighbourhood Group and Room Type**
 
@@ -254,7 +254,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
   - Analysts to understand accommodation trends in this area.
   - Renters to gauge availability and preferences.
 
-<img width="1701" alt="Screenshot 2025-03-16 at 5 38 55 PM" src="https://github.com/user-attachments/assets/30889c46-a7cc-4b77-a8c1-26d31ef0c801" />
+![](Slide_5.png)
 
 ### **Chart Explanation: Total Reviews by Year**
 
@@ -283,7 +283,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
   - A growing user base on the platform.
 - 2019 stands out as a breakthrough year with a substantial rise in reviews, suggesting either a surge in popularity or a broader reach.
 
-<img width="1691" alt="Screenshot 2025-03-16 at 5 41 43 PM" src="https://github.com/user-attachments/assets/008d15f0-3b2d-4427-bfea-462a953c7264" />
+![](Slide_6.png)
 
 ### **Chart Explanation: Average Price of Shared Rooms by Neighbourhood Group**
 
@@ -315,7 +315,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
 - **Brooklyn** offers the most affordable shared rooms, averaging $50.53.
 - This visualization allows users to quickly compare price trends for shared rooms across different neighborhood groups.
 
-<img width="1696" alt="Screenshot 2025-03-16 at 5 43 30 PM" src="https://github.com/user-attachments/assets/6e81179b-babe-467d-9079-fd5b53f05983" />
+![](Slide_7.png)
 
 ### **Chart Explanation: Avg Price in Neighbourhood - Neighbourhood Group: Brooklyn**
 
@@ -361,7 +361,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
   - **Real Estate Analysts**: To study pricing trends.
   - **Investors**: To compare property values across neighborhoods.
 
-<img width="1705" alt="Screenshot 2025-03-16 at 5 45 14 PM" src="https://github.com/user-attachments/assets/9f200ff1-ab5d-42a3-8411-63206db8e85d" />
+![](Slide_8.png)
 
 ### **Chart Explanation: Average Reviews by Room Type in Neighbourhood Group**
 
@@ -410,7 +410,7 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
 - **Travelers**: Gauge the popularity of specific room types in various areas.
 - **Analysts**: Study the correlation between room types, neighborhoods, and review activity.
 
-<img width="1703" alt="Screenshot 2025-03-16 at 5 46 43 PM" src="https://github.com/user-attachments/assets/5806c93d-6403-4b7e-b1d1-d7d8c3515cc5" />
+![](Slide_9.png)
 
 ### **Key Performance Indicators (KPIs) Overview**
 
@@ -435,5 +435,5 @@ The dashboard provides insights into Airbnb data in New York City, focusing on:
 #### **Objective**
 The final dashboard provides insights into Airbnb data in New York City. It visualizes key metrics, trends, and highlights critical information for hosts, travelers, and analysts.
 
-<img width="1710" alt="Screenshot 2025-03-16 at 5 57 12 PM" src="https://github.com/user-attachments/assets/875ddaab-e577-45ca-a17c-933a0ba97d0e" />
+![](Slide_10.png)
 
